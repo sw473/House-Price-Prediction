@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Logistic Regression Algorithm
+Linear Regression Algorithm
